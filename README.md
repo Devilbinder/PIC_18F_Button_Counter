@@ -9,6 +9,9 @@ This code Demonstrates how to do a button counter with the XC8 compiler with MPL
 Shekels: 
 https://www.paypal.me/bindertronics9/5
 
+Patreon:
+https://www.patreon.com/BinderTronics
+
 Bitcoin: 
 19nohZzWXxVuZ9tZvw8Pvhajt5khG5mspW
 
